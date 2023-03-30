@@ -4,3 +4,8 @@ For submission for conferences 2023 there is just the model implementation here 
 
 Also see the model fit script 'CESM_fits.R' for our function to bring in Other causes. However, we removed the actual data steps because we could not ensure anonymity of the behavioural data. So this script will not run.
 
+# Comparison of model to human data
+
+See below for each of the 64 grid world scenarios, with human participant responses of each category (Preference, Character, Knowledge, Other) as coloured bars, and model predictions as red dots.
+
+![big_plot](big_plot.pdf)
